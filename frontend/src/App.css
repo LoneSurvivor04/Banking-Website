@@ -1,0 +1,19 @@
+*{
+  text-align: center;
+}
+
+#pad{
+  padding-top: 40px;
+}
+
+button{
+  margin-right: 25px;
+}
+
+#logo{
+  margin-left: 15px;
+}
+
+.container-sm{
+  margin-top: 35px;
+}
